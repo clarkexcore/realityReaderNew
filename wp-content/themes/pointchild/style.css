@@ -1,0 +1,23 @@
+/*
+Theme Name: Point (CHILD)
+Theme URI: http://realityreader.com
+Author: Alex Clarke
+Author URI: http://alexclarke.ca
+Description: Point Child Theme
+Version: 2.0.3
+Template: Point
+Tags: light, custom-menu, custom-header, custom-background, custom-colors, two-columns, right-sidebar, theme-options, threaded-comments, full-width-template, sticky-post, translation-ready, gray, blue, featured-images, theme-options, rtl-language-support
+License: GPL
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: point
+Point WordPress Theme, Copyright 2015 MyThemeShop.
+Point is distributed under the terms of the GNU General Public License v3
+*/
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+
+
+.main-container{
+	margin: 25px auto;
+}
