@@ -17,7 +17,48 @@ Point is distributed under the terms of the GNU General Public License v3
 # Normalize
 --------------------------------------------------------------*/
 
+/*
+	#b70000 This is the Red we are going to be using for the site.
+	
+	These are the fonts.
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Oswald', sans-serif;
+	font-family: 'Roboto', sans-serif;
+
+*/
+
+
+div.trending-articles{
+	background: rgb(183, 0, 0);
+	border-bottom: 1px solid rgb(183, 0, 0);
+}
+
+div.trending-articles li a{
+	color: black;
+}
+
+div.trending-articles li a:hover{
+	color: white;
+}
+
+div.featuredBox .featured-excerpt{
+	background-color: rgba(183, 0, 0, 0.5);
+}
+
 
 .main-container{
 	margin: 25px auto;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
