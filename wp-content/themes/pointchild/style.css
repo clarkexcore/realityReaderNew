@@ -33,6 +33,10 @@ div.trending-articles{
 	border-bottom: 1px solid rgb(183, 0, 0);
 }
 
+div.trending-articles li{
+	border-right: 1px solid black;
+}
+
 div.trending-articles li a{
 	color: black;
 }
@@ -41,8 +45,74 @@ div.trending-articles li a:hover{
 	color: white;
 }
 
+div.site-branding{
+	background-color: black;
+}
+
+div.primary-navigation #navigation ul li:hover {
+	background-color: black;
+}
+
+div.primary-navigation #navigation ul li a {
+	color: white;
+}
+
+div.primary-navigation #navigation ul li a:hover {
+	color: rgb(183, 0, 0);
+}
+
+div.primary-navigation #navigation ul li.current_page_item a{
+	color: rgb(183, 0, 0);
+}
+
+div.site-branding #logo a{
+	color: rgb(183, 0, 0);
+}
+
+
 div.featuredBox .featured-excerpt{
 	background-color: rgba(183, 0, 0, 0.5);
+}
+
+div.article h3 {
+	background-color: black;
+	color: white;
+}
+
+div.article .featured-cat{
+	background-color: rgb(183, 0, 0);
+}
+
+div.article article.post header h2.title:hover a {
+	color: rgb(183, 0, 0);
+}
+
+div.article article.post header .post-info .theauthor a{
+	color: rgb(183, 0, 0);
+}
+
+div.article article.post .readMore a{
+	color: rgb(183, 0, 0);
+}
+
+footer .carousel h3.frontTitle {
+	background-color: black;
+}
+
+footer .excerpt a {
+	text-align: center;
+}
+
+footer .excerpt:hover a {
+	color: rgb(183, 0, 0);
+}
+
+div.copyrights #copyright-note .copyright-left-text a {
+	color: rgb(183, 0, 0);
+}
+
+div.copyrights #copyright-note .footer-navigation li:hover a {
+	color: rgb(183, 0, 0);
 }
 
 
