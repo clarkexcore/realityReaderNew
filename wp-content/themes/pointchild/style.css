@@ -120,7 +120,25 @@ div.copyrights #copyright-note .footer-navigation li:hover a {
 	margin: 25px auto;
 }
 
+form.wpcf7-form p label span input[type="email"] {
+	background-color: #f0f0f0;
+}
 
+form.wpcf7-form p label span input[type="text"] {
+	background-color: #f0f0f0;
+}
+
+form.wpcf7-form p label span textarea {
+	background-color: #f0f0f0;
+}
+
+form.wpcf7-form p input[type="submit"] {
+	background-color: #f0f0f0;
+	padding: 5px 20px;
+	border: 1px solid #555;
+	border-radius: 5px;
+	font-size: 15px;
+}
 
 
 
