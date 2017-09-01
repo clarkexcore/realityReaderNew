@@ -91,6 +91,7 @@ div.article article.post header .post-info .theauthor a{
 	color: rgb(183, 0, 0);
 }
 
+
 div.article article.post .readMore a{
 	color: rgb(183, 0, 0);
 }
@@ -120,6 +121,8 @@ div.copyrights #copyright-note .footer-navigation li:hover a {
 	margin: 25px auto;
 }
 
+/*END OF MAIN PAGE STYLING */
+
 form.wpcf7-form p label span input[type="email"] {
 	background-color: #f0f0f0;
 }
@@ -140,6 +143,19 @@ form.wpcf7-form p input[type="submit"] {
 	font-size: 15px;
 }
 
+/*END OF CONTACT FORM STYLING*/
+
+article .post .single_post .post-single-content .pagination a {
+	background-color: rgb(183, 0, 0);
+}
+
+article .post .single_post .post-single-content .pagination a:hover {
+	background-color: black;
+}
+
+div.m-t-6 .comment-respond #commentform .logged-in-as a {
+	color: rgb(183, 0, 0);
+}
 
 
 
