@@ -57,6 +57,18 @@ div.primary-navigation #navigation ul li a {
 	color: white;
 }
 
+div.primary-navigation #navigation ul .current-menu-item a{
+	color: rgb(183, 0, 0);
+}
+
+div.primary-navigation #navigation ul li .sub-menu li a {
+	color: black;
+}
+
+div.primary-navigation #navigation ul li .sub-menu li a:hover {
+	color: rgb(183, 0, 0);
+}
+
 div.primary-navigation #navigation ul li a:hover {
 	color: rgb(183, 0, 0);
 }
@@ -145,6 +157,18 @@ form.wpcf7-form p input[type="submit"] {
 
 /*END OF CONTACT FORM STYLING*/
 
+article .post .single_post header .post-info .theauthor a {
+	color: rgb(183, 0, 0);
+}
+
+article .post .single_post header .post-info .thecategory a {
+	color: rgb(183, 0, 0);
+}
+
+article .post .single_post header .post-info .thecomment a {
+	color: rgb(183, 0, 0);
+}
+
 article .post .single_post .post-single-content .pagination a {
 	background-color: rgb(183, 0, 0);
 }
@@ -157,8 +181,19 @@ div.m-t-6 .comment-respond #commentform .logged-in-as a {
 	color: rgb(183, 0, 0);
 }
 
+div.m-t-6 .comment-respond #commentform .form-submit input#submit {
+	background-color: rgb(183, 0, 0);
+}
 
+div.m-t-6 .comment-respond #commentform .form-submit input#submit:hover {
+	background-color: black;
+}
 
+/*END OF SINGLE POST STYLING */
+
+aside.sidebar.c-4-12 a:hover{
+	color: rgb(183, 0, 0);
+}
 
 
 
